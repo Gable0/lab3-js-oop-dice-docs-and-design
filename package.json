@@ -25,7 +25,7 @@
   "scripts": {
     "test": "node -- test test/**/*.test.js\"",
     "lint": "echo \"Linting will be configured in Step 3\"",
-    "format": "echo \"Formatting will be configured in step 3\""
+    "format": "echo \"Formatting will be configured in step 3\"",
     "docs": "echo \"Documentation generation will be configured in step 3\""
   },
   "devDependencies": {
