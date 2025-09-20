@@ -1,4 +1,4 @@
-**
+/**
 * Represents a single die with configurable number of sides
 */
 export class Die { //'#' mean private variables
