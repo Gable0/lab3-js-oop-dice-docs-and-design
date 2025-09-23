@@ -1,4 +1,4 @@
-mport { DiceNotation } from '../domain/DiceNotation.js';
+import { DiceNotation } from '../domain/DiceNotation.js';
 
 /**
  * Application service that coordinates dice rolling with rendering
@@ -89,7 +89,7 @@ export class DiceRoller {
 	 * Clears the roll history
 	 */
 	clearHistory() {
-		his.#history = [];
+		this.#history = [];
 	}
 
 	/**
