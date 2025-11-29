@@ -12,3 +12,4 @@ console.log('Rolling 3d6:', dice.rollAll(), 'Total:', dice.getTotal());
 
 // Try notation parsing
 console.log('Rolling 2d8+5:', DiceNotation.roll('2d8+5'));
+
